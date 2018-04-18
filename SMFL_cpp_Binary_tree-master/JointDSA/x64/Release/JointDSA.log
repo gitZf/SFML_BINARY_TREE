@@ -1,0 +1,44 @@
+﻿  BinaryTree.cpp
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+BinaryTree.cpp(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+BinaryTree.cpp(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  JointDSA.cpp
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\orgis\documents\delete\smfl_cpp_binary_tree-master\smfl_cpp_binary_tree-master\jointdsa\BinaryTree.h(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+JointDSA.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+JointDSA.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  readFile.cpp
+readFile.cpp(30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  stdafx.cpp
+  Generating code
+  All 404 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JointDSA.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_cpp_Binary_tree-master\SMFL_cpp_Binary_tree-master\x64\Release\JointDSA.exe
+  JointDSA.vcxproj -> C:\Users\orgis\Documents\DELETE\SMFL_cpp_Binary_tree-master\SMFL_cpp_Binary_tree-master\x64\Release\JointDSA.pdb (Full PDB)
